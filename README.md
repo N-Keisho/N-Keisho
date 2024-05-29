@@ -1,13 +1,8 @@
-<div align="center">
-<img src="https://i.imgur.com/seJfXpv.png" align="center" style="width: 50%" />
-</div>  
+### ものづくりが大好きな大学3年生です
   
+高校生の時にWindowsのメモ帳でホームページを作ってから，プログラムに興味を持ち始めました．
 
-### <div align="center">I'm Keisho, a student who wants to become a frontend engineer!</div>  
-  
-ものづくりが大好きな大学3年生です．高校生の時にWindowsのメモ帳でホームページを作ってから，プログラムに興味を持ち始めました．
-
-私は好奇心が旺盛だと自負しています．知らないことを知るとすごくワクワクします．やってみたいと思います．
+私は好奇心が旺盛で，知らないことを知るとすごくワクワクします．やってみたい！という気持ちが溢れます．
 
 そんな自身の「ワクワク」と「やってみたい！」を大切に，何事にも全力で取り組むことが私のモットーです．
 
