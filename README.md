@@ -63,9 +63,12 @@
 
 
 ## Github Stats  
-
-  
   <img src="https://github-readme-stats.vercel.app/api?username=N-Keisho&rank_icon=github&show_icons=true&count_private=true&hide_border=true" align="center" />
+
+## Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Keisho&layout=donut&hide_border=true" align="center" />
+
+## WakaTimeStatus
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=N_Keisho&hide_border=true" align="center" />
+  ※since 2024/5/28
 
