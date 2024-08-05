@@ -70,5 +70,4 @@
 
 ## WakaTimeStatus
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=N_Keisho&hide_border=true" align="center" />
-  ※since 2024/5/28
 
